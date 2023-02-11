@@ -13,6 +13,6 @@ gcc Final.c -o Final -lm
 The '-lm ' compiles the <math.h> file.
 
 To run it use the code:
-./Final
+  ./Final
 
 This may differ if you create an a.out output file.
